@@ -1,0 +1,7 @@
+meetingroom\PolicyHandler.class
+meetingroom\MeetingroomlistViewHandler.class
+meetingroom\AbstractEvent.class
+meetingroom\Application.class
+meetingroom\config\kafka\KafkaProcessor.class
+meetingroom\MeetingroomlistRepository.class
+meetingroom\Meetingroomlist.class
